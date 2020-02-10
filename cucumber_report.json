@@ -1,0 +1,88 @@
+[
+  {
+    "description": "    As a user\n    I can Login to application",
+    "keyword": "Feature",
+    "name": "Login",
+    "line": 1,
+    "id": "login",
+    "tags": [],
+    "uri": "features\\support\\login.feature",
+    "elements": [
+      {
+        "id": "login;user-can-login-to-application",
+        "keyword": "Scenario",
+        "line": 5,
+        "name": "User can login to application",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "match": {
+              "location": "Projects\\projects\\node_modules\\cucumber\\lib\\support_code_library_builder\\index.js:62"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 797000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 6,
+            "name": "I open login page",
+            "result": {
+              "status": "undefined"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 7,
+            "name": "I fill login form",
+            "match": {
+              "location": "features\\support\\steps.js:15"
+            },
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 8,
+            "name": "I click on submit button",
+            "result": {
+              "status": "undefined"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 9,
+            "name": "I expect to see application content",
+            "match": {
+              "location": "features\\support\\steps.js:23"
+            },
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "Projects\\projects\\node_modules\\cucumber\\lib\\support_code_library_builder\\index.js:62"
+            },
+            "result": {
+              "status": "failed",
+              "duration": 1000000,
+              "error_message": "ReferenceError: browser is not defined\n    at CustomWorld.closeBrowser (C:\\Users\\a.mella\\Desktop\\Testing Projects\\PPTR Projects\\projects\\features\\support\\world.js:38:9)\n    at CustomWorld.<anonymous> (C:\\Users\\a.mella\\Desktop\\Testing Projects\\PPTR Projects\\projects\\features\\support\\steps.js:8:23)"
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
