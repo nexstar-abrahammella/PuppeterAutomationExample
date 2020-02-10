@@ -39,3 +39,9 @@ npm install
 ```
 npm run testjobsity
 ```
+
+## ScreenShots for the Succefull and Errors it's on the
+- test_JobsityChallenge/testing.png
+- test_JobsityChallenge/error1.png
+- test_JobsityChallenge/error2.png
+
