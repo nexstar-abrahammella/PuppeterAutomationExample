@@ -65,30 +65,30 @@ npm run testjobsity
 ### For Individuals Test
 - For Running the Contact Form Automation
 
-...
+```
 npm run testcontacform
-...
+```
 
 - For Running the Search Automation
 
-...
+``
 npm run testsearch
-...
+``
 
 
 ## ScreenShots for the Succesfull and Errors it's on the
 - You can see the errors for the Succesfull and Errors on the folder 
-...
+```
 /test_JobsityChallenge/errorScreenShots/
-...
+```
 ## ScreenShots for Order By Results
 - You can see the results for the Order By on the folder 
-...
+```
 /test_JobsityChallenge/ssForOrderBy/
-...
+```
 
 ## ScreenShots for The Search Automation
 - You can see the results for the Search on the folder 
-...
+```
 /test_JobsityChallenge/screenShotsforSearch/
-...
+```
