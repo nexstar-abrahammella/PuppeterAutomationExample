@@ -1,4 +1,4 @@
-# Web Test Automation
+# Web Test Automation: Jobsity Challenge
  ## Prequisites
  - Node.JS
 
