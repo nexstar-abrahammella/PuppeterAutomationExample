@@ -66,7 +66,7 @@ npm run testjobsity
 - For Running the Contact Form Automation
 
 ```
-npm run testcontacform
+npm run testcontactform
 ```
 
 - For Running the Search Automation
