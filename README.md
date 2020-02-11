@@ -64,10 +64,13 @@ npm run testjobsity
 
 ### For Individuals Test
 - For Running the Contact Form Automation
+
 ...
 npm run testcontacform
 ...
+
 - For Running the Search Automation
+
 ...
 npm run testsearch
 ...
