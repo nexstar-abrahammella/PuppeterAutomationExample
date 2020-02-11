@@ -5,51 +5,51 @@
  ## What Do This Automation?
 ###  Contact Form Automation:On Contact form all fields must be validated before sending a message
  - √ Entering to the Page : http://automationpractice.com/ 
-  - √ Clickin on Contact Menu Option (458ms)
+  - √ Clickin on Contact Menu Option 
     -  Filling the Contact Form with Information
-      -  √ Selecting Subject Heading  (568ms)
-       - √ Writing the email (117ms)
-       - √ Writing Order References (54ms)
-       - √ Uploading Image (4006ms)
-       - √ Writing some Message (110ms)
-      - √ Clicking on the submit (648ms)
-       - √ ScreenShot for the Succesfull (473ms)
+      -  √ Selecting Subject Heading  
+       - √ Writing the email 
+       - √ Writing Order References 
+       - √ Uploading Image 
+       - √ Writing some Message 
+      - √ Clicking on the submit 
+       - √ ScreenShot for the Succesfull 
   - Second Phase: Testing for invalids fill contact form
-     - √ Entering to the Page : http://automationpractice.com/  (1454ms)
-     - √ Clickin on Contact Menu Option (569ms)
-     - √ Writing the email (105ms)
-     - √ Clicking on the submit (640ms)
-     - √ Writing a Invalid Email (120ms)
-     - √ Validate if a message for a Invalid Email its showing up. (3003ms)
-     - √ ScreenShot for the Succesfull (585ms)
-     - √ Entering to the Page : http://automationpractice.com/index.php?controller=contact (1602ms)
-     - √ Selecting Subject Heading  (110ms)
-     - √ Writing a  Email (176ms)
-     - √ Clicking on the submit (540ms)
-     - √ Validate if a message for a Invalid Message its showing up. (3001ms)
-     - √ ScreenShot for the Succesfull (712ms)
+     - √ Entering to the Page : http://automationpractice.com/ 
+     - √ Clickin on Contact Menu Option 
+     - √ Writing the email 
+     - √ Clicking on the submit 
+     - √ Writing a Invalid Email 
+     - √ Validate if a message for a Invalid Email its showing up.
+     - √ ScreenShot for the Succesfull
+     - √ Entering to the Page : http://automationpractice.com/index.php?controller=contact 
+     - √ Selecting Subject Heading  
+     - √ Writing a  Email 
+     - √ Clicking on the submit 
+     - √ Validate if a message for a Invalid Message its showing up. 
+     - √ ScreenShot for the Succesfull
 
  ### Search Automation: Should Search and have everything working correctly
    -  Searching for A Correctly Word
-   -  √ Entering to the Page : http://automationpractice.com/  (3354ms)
-   -  √ Searching For "Dress Word " (615ms)
-   -  √ Identifying if the Word Searched its Correctly  (1084ms)
+   -  √ Entering to the Page : http://automationpractice.com/  
+   -  √ Searching For "Dress Word " 
+   -  √ Identifying if the Word Searched its Correctly 
    -  Testing for all the Sort By Options
-   -  √ Ordering by Lowest First (1045ms)
-   -  √ Ordering by Highest  First (1064ms)
-   -  √ Ordering by A to Z  (1349ms)
-   -  √ Ordering by Z to A  (1145ms)
-   - √ Ordering by Stocks  (1099ms)
-   - √ Ordering by Reference: Lowest First  (1085ms)
-   - √ Ordering by Reference: Highest First  (1054ms)
+   -  √ Ordering by Lowest First 
+   -  √ Ordering by Highest  First 
+   -  √ Ordering by A to Z  
+   -  √ Ordering by Z to A  
+   - √ Ordering by Stocks 
+   - √ Ordering by Reference: Lowest First  
+   - √ Ordering by Reference: Highest First 
    - Testing for Invalid words
-   -   √ Searching For "@ " (3029ms)
-   -  √ Checking for @ Results  (2507ms)
-   -  √ Searching For "%#(*@#(*@#)) " (1971ms)
-   -  √ Checking for%#(*@#(*@#)) Results  (2503ms)
-   -  √ Searching For "%#(*@#(*@#)) " (2179ms)
-   -  √ Searching For "12312312313"  (2987ms)
-   -   √ Checking for 12312312313 Results  (2622ms)
+   -   √ Searching For "@ "
+   -  √ Checking for @ Results  
+   -  √ Searching For "%#(*@#(*@#)) " 
+   -  √ Checking for%#(*@#(*@#)) Results  
+   -  √ Searching For "%#(*@#(*@#)) " 
+   -  √ Searching For "12312312313"  
+   -   √ Checking for 12312312313 Results 
 
 ## How To
 - Set up the project
