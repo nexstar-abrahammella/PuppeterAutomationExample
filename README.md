@@ -30,26 +30,26 @@
      - √ ScreenShot for the Succesfull (712ms)
 
  ### Search Automation: Should Search and have everything working correctly
-  -  Searching for A Correctly Word
-    -  √ Entering to the Page : http://automationpractice.com/  (3354ms)
-    -  √ Searching For "Dress Word " (615ms)
-    -  √ Identifying if the Word Searched its Correctly  (1084ms)
-    -  Testing for all the Sort By Options
-     -   √ Ordering by Lowest First (1045ms)
-      -  √ Ordering by Highest  First (1064ms)
-      -  √ Ordering by A to Z  (1349ms)
-      -  √ Ordering by Z to A  (1145ms)
-       - √ Ordering by Stocks  (1099ms)
-       - √ Ordering by Reference: Lowest First  (1085ms)
-       - √ Ordering by Reference: Highest First  (1054ms)
-     - Testing for Invalid words
-     -   √ Searching For "@ " (3029ms)
-      -  √ Checking for @ Results  (2507ms)
-      -  √ Searching For "%#(*@#(*@#)) " (1971ms)
-      -  √ Checking for%#(*@#(*@#)) Results  (2503ms)
-      -  √ Searching For "%#(*@#(*@#)) " (2179ms)
-      -  √ Searching For "12312312313"  (2987ms)
-     -   √ Checking for 12312312313 Results  (2622ms)
+   -  Searching for A Correctly Word
+   -  √ Entering to the Page : http://automationpractice.com/  (3354ms)
+   -  √ Searching For "Dress Word " (615ms)
+   -  √ Identifying if the Word Searched its Correctly  (1084ms)
+   -  Testing for all the Sort By Options
+   -  √ Ordering by Lowest First (1045ms)
+   -  √ Ordering by Highest  First (1064ms)
+   -  √ Ordering by A to Z  (1349ms)
+   -  √ Ordering by Z to A  (1145ms)
+   - √ Ordering by Stocks  (1099ms)
+   - √ Ordering by Reference: Lowest First  (1085ms)
+   - √ Ordering by Reference: Highest First  (1054ms)
+   - Testing for Invalid words
+   -   √ Searching For "@ " (3029ms)
+   -  √ Checking for @ Results  (2507ms)
+   -  √ Searching For "%#(*@#(*@#)) " (1971ms)
+   -  √ Checking for%#(*@#(*@#)) Results  (2503ms)
+   -  √ Searching For "%#(*@#(*@#)) " (2179ms)
+   -  √ Searching For "12312312313"  (2987ms)
+   -   √ Checking for 12312312313 Results  (2622ms)
 
 ## How To
 - Set up the project
