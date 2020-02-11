@@ -2,8 +2,8 @@
  ## Prequisites
  - Node.JS
 
- # What Do This Automation?
-##  Contact Form Automation:On Contact form all fields must be validated before sending a message
+ ## What Do This Automation?
+###  Contact Form Automation:On Contact form all fields must be validated before sending a message
  - √ Entering to the Page : http://automationpractice.com/ 
   - √ Clickin on Contact Menu Option (458ms)
     -  Filling the Contact Form with Information
@@ -29,7 +29,7 @@
      - √ Validate if a message for a Invalid Message its showing up. (3001ms)
      - √ ScreenShot for the Succesfull (712ms)
 
- ## Search Automation: Should Search and have everything working correctly
+ ### Search Automation: Should Search and have everything working correctly
   -  Searching for A Correctly Word
     -  √ Entering to the Page : http://automationpractice.com/  (3354ms)
     -  √ Searching For "Dress Word " (615ms)
@@ -76,7 +76,7 @@ npm run testsearch
 ``
 
 
-## ScreenShots for the Succesfull and Errors it's on the
+### ScreenShots for the Succesfull and Errors it's on the
 - You can see the errors for the Succesfull and Errors on the folder 
 ```
 /test_JobsityChallenge/errorScreenShots/
