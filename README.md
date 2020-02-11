@@ -3,9 +3,7 @@
  - Node.JS
 
  # What Do This Automation?
-## Testing For Contact Form:
--Contact Form Automation:On Contact form all fields must be validated before sending a message
--First Phase
+##  Contact Form Automation:On Contact form all fields must be validated before sending a message
  - √ Entering to the Page : http://automationpractice.com/ 
   - √ Clickin on Contact Menu Option (458ms)
     -  Filling the Contact Form with Information
