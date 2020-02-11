@@ -16,7 +16,7 @@
        - √ ScreenShot for the Succesfull (473ms)
    - Second Phase: Testing for invalids fill contact form
      -√ Entering to the Page : http://automationpractice.com/  (1454ms)
-      -√ Clickin on Contact Menu Option (569ms)
+     -√ Clickin on Contact Menu Option (569ms)
      -√ Writing the email (105ms)
      -√ Clicking on the submit (640ms)
      -√ Writing a Invalid Email (120ms)
