@@ -75,6 +75,7 @@ npm run testsearch
 ## ScreenShots for the Succesfull and Errors it's on the
 - You can see the errors for the Succesfull and Errors on the folder 
 ...
+
 /test_JobsityChallenge/errorScreenShots/
 
 ## ScreenShots for Order By Results
