@@ -1,3 +1,4 @@
+
 const puppeteer = require('puppeteer')
 const expect = require('chai').expect
 const assert = require('assert')
@@ -107,7 +108,7 @@ describe('Contact Form Automation:On Contact form all fields must be validated b
 
 
             it('ScreenShot for the Succesfull', async () => {
-                await page.screenshot({ path: './test_JobsityChallenge/imgsresult.png', type: 'png', fullPage: true });
+                await page.screenshot({ path: './test_JobsityChallenge/errorScreenShots/imgsresult.png', type: 'png', fullPage: true });
             })
         })
 
@@ -168,7 +169,7 @@ describe('Contact Form Automation:On Contact form all fields must be validated b
         })
 
         it('ScreenShot for the Succesfull', async () => {
-            await page.screenshot({ path: './test_JobsityChallenge/error1.png', type: 'png', fullPage: true });
+            await page.screenshot({ path: './test_JobsityChallenge/errorScreenShots/error1.png', type: 'png', fullPage: true });
         })
 
 
@@ -214,8 +215,10 @@ describe('Contact Form Automation:On Contact form all fields must be validated b
         })
 
         it('ScreenShot for the Succesfull', async () => {
-            await page.screenshot({ path: './test_JobsityChallenge/error2.png', type: 'png', fullPage: true });
+            await page.screenshot({ path: './test_JobsityChallenge/errorScreenShots/error2.png', type: 'png', fullPage: true });
+   
         })
+
 
 
 

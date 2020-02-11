@@ -5,6 +5,8 @@
   "main": "Automation Test for Contact Form [JobSity Challenge]",
   "scripts": {
     "testjobsity": "node ./node_modules/mocha/bin/mocha --timeout=30000 ./test_JobsityChallenge",
+    "testsearch": "node ./node_modules/mocha/bin/mocha --timeout=30000 ./test_JobsityChallenge/searchTest.js",
+    "testcontacform": "node ./node_modules/mocha/bin/mocha --timeout=30000 ./test_JobsityChallenge/contactform.js",
     "generate:report": "node report.js"
   },
   "author": "Abraham Mella",
