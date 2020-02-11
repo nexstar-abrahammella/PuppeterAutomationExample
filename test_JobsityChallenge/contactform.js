@@ -3,10 +3,10 @@ const puppeteer = require('puppeteer')
 const expect = require('chai').expect
 const assert = require('assert')
 
-const config = require('../test_JobsityChallenge/lib/config')
-const helpers = require('../test_JobsityChallenge/lib/helpers')
-const utils = require('../test_JobsityChallenge/lib/utils')
-const objects = require('../test_JobsityChallenge/lib/objects')
+const config = require('./lib/config')
+const helpers = require('./lib/helpers')
+const utils = require('./lib/utils')
+const objects = require('./lib/objects')
 
 describe('Contact Form Automation:On Contact form all fields must be validated before sending a message ', () => {
     let browser
