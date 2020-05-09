@@ -1,4 +1,4 @@
-# Web Test Automation: Jobsity Challenge
+# Web Test Automation With Puppeteer
  ## Prequisites
  - Node.JS
 
